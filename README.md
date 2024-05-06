@@ -1,4 +1,5 @@
-# DSA_SEM4-
+# DSA_SEM4-SPPU
+
 This repo contains Codes of  Advanced Data Structure and Algorithms in C++ 
 
 **Assignments **
